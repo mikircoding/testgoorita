@@ -1,5 +1,5 @@
 #testing admin kontrol :
-https://testgoorita.initekno.com/login
+https://testgoorita.herokuapp.com/login
 
 username : admin@gmail.com
 password : 12345678
@@ -13,7 +13,7 @@ password : 12345678
 
 
 #homepage
-https://testgoorita.initekno.com
+https://testgoorita.herokuapp.com/
 
 
 ![semuaberita](https://user-images.githubusercontent.com/65825092/163764888-eece245a-26fc-48a9-b57b-751c29534218.jpg)
